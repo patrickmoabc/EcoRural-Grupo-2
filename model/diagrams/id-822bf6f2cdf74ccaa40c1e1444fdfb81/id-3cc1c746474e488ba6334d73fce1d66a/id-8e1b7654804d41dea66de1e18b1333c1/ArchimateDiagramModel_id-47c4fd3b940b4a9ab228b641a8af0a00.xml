@@ -1,0 +1,29 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4. Portfólio de Projetos"
+    id="id-47c4fd3b940b4a9ab228b641a8af0a00">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-aec8461df0154d87a725557675235088"
+      textAlignment="1"
+      content="Serão reutilizadas as definições já criadas pela consultoria GeD&#xD;&#xA;">
+    <bounds
+        x="1116"
+        y="696"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-32c07a23f1b14fc2a748d06e99805561">
+    <bounds
+        x="12"
+        y="33"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-eaeb3e3ad6e447df81dfb1f35a2d29bf.xml#id-eaeb3e3ad6e447df81dfb1f35a2d29bf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

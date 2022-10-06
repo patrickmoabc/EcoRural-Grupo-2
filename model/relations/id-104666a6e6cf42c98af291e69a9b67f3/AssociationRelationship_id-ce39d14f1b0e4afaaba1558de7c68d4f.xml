@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Associação"
+    id="id-ce39d14f1b0e4afaaba1558de7c68d4f"
+    documentation="Processo entrega Produto&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e07a2209b1a54bd893cf77935b5dbb47.xml#id-e07a2209b1a54bd893cf77935b5dbb47"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_id-f7253441d88e4ef5be3d62f5e5c5b952.xml#id-f7253441d88e4ef5be3d62f5e5c5b952"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapa de Dados"
+    id="id-a1b7f7d0e0d8491fa276330cff711dae">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-14c613c48f5842d3a21d1967fc7f276e">
+    <bounds
+        x="12"
+        y="24"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-a25f09b403ba45658d7a5b5c53fd6075.xml#id-a25f09b403ba45658d7a5b5c53fd6075"/>
+  </children>
+</archimate:ArchimateDiagramModel>

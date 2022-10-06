@@ -1,0 +1,65 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="0a. Visão da Arquitetura - Detalhado"
+    id="id-ead493023b9f4fdb97ab55215cff2c0e">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4e00bb06a27a4ecdb6851f862c87d328"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="TO BE">
+    <bounds
+        x="1355"
+        y="15"
+        width="85"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e4e09ddcf5e343df93d6bfa07709fd0d"
+      textAlignment="1"
+      fillColor="#ffff00"
+      content="AS IS">
+    <bounds
+        x="180"
+        y="6"
+        width="111"
+        height="36"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-c88864cd4c3941748330fc3625e37ebc">
+    <bounds
+        x="12"
+        y="6"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-bf0adadd914646ecbf4a6f00a29eddfb.xml#id-bf0adadd914646ecbf4a6f00a29eddfb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4e92fb614e824e838b4bb7504c5f5560"
+      textAlignment="1"
+      content="Metas estratégicas associadas&#xD;&#xA;">
+    <bounds
+        x="767"
+        y="75"
+        width="200"
+        height="48"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-17aaa78906f84c8ab3e66d1b9edfbc57">
+    <bounds
+        x="12"
+        y="71"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-fdd7287c2dd24ff9a8d0c1b758a53053.xml#id-fdd7287c2dd24ff9a8d0c1b758a53053"/>
+  </children>
+</archimate:ArchimateDiagramModel>

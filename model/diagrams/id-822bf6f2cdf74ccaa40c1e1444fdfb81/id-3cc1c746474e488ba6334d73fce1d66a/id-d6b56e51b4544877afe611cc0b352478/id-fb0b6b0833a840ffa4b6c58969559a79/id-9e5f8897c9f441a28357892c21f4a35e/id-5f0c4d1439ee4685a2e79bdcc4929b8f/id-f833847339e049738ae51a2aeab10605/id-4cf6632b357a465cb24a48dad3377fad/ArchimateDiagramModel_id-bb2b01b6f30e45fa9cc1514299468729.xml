@@ -1,0 +1,51 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visão Compass"
+    id="id-bb2b01b6f30e45fa9cc1514299468729">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-11b180f29ac048c5868a7dab11a9a632">
+    <bounds
+        x="800"
+        y="645"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-41d483d6887f4a44901dafe5744b4ed9.xml#id-41d483d6887f4a44901dafe5744b4ed9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-63f2955ef0b34e2aaddabeab2ede3a7a"
+      textAlignment="1"
+      content="Falta identificar os servidores da aplicação e base de dados">
+    <bounds
+        x="984"
+        y="620"
+        width="213"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c09cfbb5de1d41af8ef61c472a686182"
+      textAlignment="1"
+      content="Falta detalhar a infra estrutura alvo to be&#xD;&#xA;">
+    <bounds
+        x="528"
+        y="633"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2d51be60831449328222adada316aa9d"
+      textAlignment="1"
+      content="Smartphone, tablet, workstation&#xD;&#xA;">
+    <bounds
+        x="25"
+        y="372"
+        width="117"
+        height="67"/>
+  </children>
+</archimate:ArchimateDiagramModel>

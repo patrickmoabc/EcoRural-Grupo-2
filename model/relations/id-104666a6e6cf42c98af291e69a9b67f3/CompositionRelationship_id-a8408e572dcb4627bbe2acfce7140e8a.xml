@@ -1,0 +1,13 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composição"
+    id="id-a8408e572dcb4627bbe2acfce7140e8a"
+    documentation="Subprocesso totalmente contido no &quot;pai&quot;.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e07a2209b1a54bd893cf77935b5dbb47.xml#id-e07a2209b1a54bd893cf77935b5dbb47"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-21f50290603f431d841f2d596c1473d3.xml#id-21f50290603f431d841f2d596c1473d3"/>
+</archimate:CompositionRelationship>

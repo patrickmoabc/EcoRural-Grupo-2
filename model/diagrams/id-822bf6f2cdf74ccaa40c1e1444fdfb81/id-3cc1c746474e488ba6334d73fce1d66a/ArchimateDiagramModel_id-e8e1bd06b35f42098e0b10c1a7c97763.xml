@@ -1,0 +1,72 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Segmentos"
+    id="id-e8e1bd06b35f42098e0b10c1a7c97763">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-20296d65d6354edba7e9c01c32b80006"
+      name="Segmento A"
+      textAlignment="1">
+    <bounds
+        x="58"
+        y="43"
+        width="400"
+        height="474"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-cccab1bfb18b4ff2a3bd515c6dad40b4"
+        name="Arquitetura de Negócio"
+        textAlignment="1">
+      <bounds
+          x="51"
+          y="143"
+          width="298"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-d5b15906339141508c1abffd953195c6"
+        name="Arquitetura de Recursos Organizacionais"
+        textAlignment="1">
+      <bounds
+          x="51"
+          y="302"
+          width="298"
+          height="140"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-9755e73aa78f41958190419f9720e3e4"
+      name="Segmento B"
+      textAlignment="1">
+    <bounds
+        x="528"
+        y="43"
+        width="400"
+        height="474"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-df4ab6b39f834125bab3138e42670b45"
+        name="Arquitetura de Negócio"
+        textAlignment="1">
+      <bounds
+          x="51"
+          y="143"
+          width="298"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-b72a1cf9e52f4fabb139f0ecbe270418"
+        name="Arquitetura de Recursos Organizacionais"
+        textAlignment="1">
+      <bounds
+          x="51"
+          y="302"
+          width="298"
+          height="140"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

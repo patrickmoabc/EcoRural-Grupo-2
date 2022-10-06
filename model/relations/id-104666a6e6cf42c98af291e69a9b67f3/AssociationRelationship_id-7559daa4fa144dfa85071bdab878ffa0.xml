@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Associação"
+    id="id-7559daa4fa144dfa85071bdab878ffa0"
+    documentation="Responsabilidade">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-74caace50f504e44af5beecdd08a7f43.xml#id-74caace50f504e44af5beecdd08a7f43"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-089bf77cdc6342fca79933d31c02d54e.xml#id-089bf77cdc6342fca79933d31c02d54e"/>
+</archimate:AssociationRelationship>

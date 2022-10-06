@@ -1,0 +1,39 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Streams"
+    id="id-2b6efb9cf05e4359aee56d898a4e6f55">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-315059cf48224d8797a8250ea965a82b"
+      name="Fluxos Estratégicos"
+      textAlignment="1">
+    <bounds
+        x="120"
+        y="24"
+        width="985"
+        height="133"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-114880a0eedb4095871d67837c4ae93a"
+      name="Fluxos de Suporte"
+      textAlignment="1">
+    <bounds
+        x="120"
+        y="336"
+        width="985"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-ca9ff8b412dd4b7ca020325aab2dad22"
+      name="Fluxos Operacionais"
+      textAlignment="1">
+    <bounds
+        x="120"
+        y="180"
+        width="985"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

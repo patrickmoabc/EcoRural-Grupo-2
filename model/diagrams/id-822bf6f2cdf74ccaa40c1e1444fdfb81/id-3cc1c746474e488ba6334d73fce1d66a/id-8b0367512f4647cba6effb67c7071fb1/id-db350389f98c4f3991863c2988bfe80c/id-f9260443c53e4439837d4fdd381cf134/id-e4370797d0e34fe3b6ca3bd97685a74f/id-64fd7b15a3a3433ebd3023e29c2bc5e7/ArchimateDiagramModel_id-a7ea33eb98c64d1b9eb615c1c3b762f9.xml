@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapa de Aplicações"
+    id="id-a7ea33eb98c64d1b9eb615c1c3b762f9">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-529b41b26ee240ffbb25979766bf4343">
+    <bounds
+        x="12"
+        y="-6"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-1c837801057c48288578214198a4adf1.xml#id-1c837801057c48288578214198a4adf1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

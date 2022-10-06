@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapa da Rede - Atual"
+    id="id-ecf53178f4f34fb689bbf33a26e55f13">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-d64f098811b9498198c5f2dbc1a4c07a">
+    <bounds
+        x="11"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-47cfe3a778d1455198b358e39d6e5364.xml#id-47cfe3a778d1455198b358e39d6e5364"/>
+  </children>
+</archimate:ArchimateDiagramModel>

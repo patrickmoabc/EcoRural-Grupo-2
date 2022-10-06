@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Biblioteca de Viewpoints"
+    id="id-72fe884c2dbe48e28eee220820c0f32e">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-9386d2255dd84aee8abe83c3dc0f091d">
+    <bounds
+        x="22"
+        y="20"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-eaeb3e3ad6e447df81dfb1f35a2d29bf.xml#id-eaeb3e3ad6e447df81dfb1f35a2d29bf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1a68704e65044940b1a01bf75e85fa09">
+    <bounds
+        x="305"
+        y="118"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-28f86ff346c34f25b4730dd1f77102a4.xml#id-28f86ff346c34f25b4730dd1f77102a4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

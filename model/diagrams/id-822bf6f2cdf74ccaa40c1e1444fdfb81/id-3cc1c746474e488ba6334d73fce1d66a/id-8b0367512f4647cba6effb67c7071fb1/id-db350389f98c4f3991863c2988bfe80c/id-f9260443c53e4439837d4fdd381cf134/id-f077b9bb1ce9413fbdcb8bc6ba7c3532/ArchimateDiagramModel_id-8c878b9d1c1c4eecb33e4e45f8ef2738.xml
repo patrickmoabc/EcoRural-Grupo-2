@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veículos"
+    id="id-8c878b9d1c1c4eecb33e4e45f8ef2738">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d349cea1691b47a786d11da824b52546"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Alvo">
+    <bounds
+        x="1355"
+        y="15"
+        width="85"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f7e07abcdc7e410f935ff172691deca0">
+    <bounds
+        x="24"
+        y="15"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-3a9a28d553c74d18924a303523c9cd7a.xml#id-3a9a28d553c74d18924a303523c9cd7a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

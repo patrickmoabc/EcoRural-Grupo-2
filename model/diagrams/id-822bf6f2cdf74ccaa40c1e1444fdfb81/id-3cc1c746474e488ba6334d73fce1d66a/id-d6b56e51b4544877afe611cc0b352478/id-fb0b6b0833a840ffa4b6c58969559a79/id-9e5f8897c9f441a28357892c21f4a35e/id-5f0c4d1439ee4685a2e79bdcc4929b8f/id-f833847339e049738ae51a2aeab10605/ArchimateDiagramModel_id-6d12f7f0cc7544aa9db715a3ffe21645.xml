@@ -1,0 +1,87 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapa de Aplicações - Alvo"
+    id="id-6d12f7f0cc7544aa9db715a3ffe21645">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-f795a64bbae7482aa519a10c7d5ab170"
+      name="TO BE"
+      textAlignment="1">
+    <bounds
+        x="456"
+        y="1740"
+        width="277"
+        height="181"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-ea52ab714708431598d0564f38708a7a"
+      name="A confirmar"
+      textAlignment="1">
+    <bounds
+        x="35"
+        y="1740"
+        width="400"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4483915cdc424be68be9a1149b558848"
+      textAlignment="1"
+      content="Legenda:&#xD;&#xA;">
+    <bounds
+        x="4"
+        y="78"
+        width="169"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3d4926e28bd14cab96c1c86cab096fcb"
+      textAlignment="1"
+      fillColor="#0080ff"
+      content="Elemento novo">
+    <bounds
+        x="16"
+        y="109"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ac5801c9b98947afad0a2cc2e7283528"
+      textAlignment="1"
+      fillColor="#ff8040"
+      content="Elemento a modificar">
+    <bounds
+        x="16"
+        y="145"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8799fe90209249258f1df83b3444f63d"
+      textAlignment="1"
+      fillColor="#ff0000"
+      content="Elemento a eliminar&#xD;&#xA;">
+    <bounds
+        x="16"
+        y="181"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-b51bbdebc1624153a5d806ec6fbc7c73">
+    <bounds
+        x="23"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-1c837801057c48288578214198a4adf1.xml#id-1c837801057c48288578214198a4adf1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

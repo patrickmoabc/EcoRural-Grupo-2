@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Atribuição"
+    id="id-a9a293bc8a8545328b658026505af26e"
+    documentation="Responsabilidade por / &quot;Ownership&quot; do processo">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-089bf77cdc6342fca79933d31c02d54e.xml#id-089bf77cdc6342fca79933d31c02d54e"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e07a2209b1a54bd893cf77935b5dbb47.xml#id-e07a2209b1a54bd893cf77935b5dbb47"/>
+</archimate:AssignmentRelationship>

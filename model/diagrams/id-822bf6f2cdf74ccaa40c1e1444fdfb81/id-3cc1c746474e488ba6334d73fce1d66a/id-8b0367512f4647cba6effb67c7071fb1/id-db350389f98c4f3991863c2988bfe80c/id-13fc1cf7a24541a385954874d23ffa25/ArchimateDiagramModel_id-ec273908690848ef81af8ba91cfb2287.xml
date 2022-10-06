@@ -1,0 +1,49 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2. Cultura Organizacional"
+    id="id-ec273908690848ef81af8ba91cfb2287">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-442896f45d7345e887d390c62a6f28e5"
+      name="Nossos Valores e Princípios"
+      textAlignment="1">
+    <bounds
+        x="36"
+        y="72"
+        width="925"
+        height="337"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-8c0d12dfbf52466696b3c7fcc4299901"
+        name="Valores"
+        textAlignment="1">
+      <bounds
+          x="12"
+          y="36"
+          width="901"
+          height="121"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-05a87b3cc49a411dabb4c071e72dc054"
+        name="Princípios"
+        textAlignment="1">
+      <bounds
+          x="12"
+          y="192"
+          width="901"
+          height="121"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-7971bc4b998c452f89f70097c55701a3">
+    <bounds
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-eaeb3e3ad6e447df81dfb1f35a2d29bf.xml#id-eaeb3e3ad6e447df81dfb1f35a2d29bf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

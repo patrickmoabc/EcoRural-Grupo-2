@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="0b. Visão da Arquitetura - Alvo"
+    id="id-fdd7287c2dd24ff9a8d0c1b758a53053">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-6ddbc7208f584bb8b36fcb74d7edaac9">
+    <bounds
+        x="12"
+        y="6"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-ead493023b9f4fdb97ab55215cff2c0e.xml#id-ead493023b9f4fdb97ab55215cff2c0e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

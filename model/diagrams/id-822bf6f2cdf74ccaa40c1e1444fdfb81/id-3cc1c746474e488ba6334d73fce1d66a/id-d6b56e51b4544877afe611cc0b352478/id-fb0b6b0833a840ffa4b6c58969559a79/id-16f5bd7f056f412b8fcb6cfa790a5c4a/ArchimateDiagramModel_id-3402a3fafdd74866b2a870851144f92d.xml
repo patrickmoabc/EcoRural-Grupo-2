@@ -1,0 +1,54 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Organograma - Alvo"
+    id="id-3402a3fafdd74866b2a870851144f92d"
+    connectionRouterType="2">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2978bbcb296547aeb6ea7fd08acf01af"
+      textAlignment="1"
+      content="Legenda:&#xD;&#xA;">
+    <bounds
+        x="24"
+        y="-48"
+        width="457"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-65e3434f1d314ff3b2dc400f9d93cd02"
+      textAlignment="1"
+      fillColor="#0080ff"
+      content="Elemento novo">
+    <bounds
+        x="37"
+        y="-25"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-071cf69a5ad9431cbd006b5cb25863e1"
+      textAlignment="1"
+      fillColor="#ff8040"
+      content="Elemento a modificar">
+    <bounds
+        x="180"
+        y="-25"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-11d72322a3064668a4db0ea8f3a0fed4"
+      textAlignment="1"
+      fillColor="#ff0000"
+      content="Elemento a eliminar&#xD;&#xA;">
+    <bounds
+        x="324"
+        y="-25"
+        width="133"
+        height="25"/>
+  </children>
+</archimate:ArchimateDiagramModel>

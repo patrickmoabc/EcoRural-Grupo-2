@@ -1,0 +1,61 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3a. Mapa Estratégico"
+    id="id-1cb34d1994914c9bb3c01837971fd92d"
+    viewpoint="stakeholder">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-1a21bab4e4e944c9b9325a0325371998"
+      name="Financeiro"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="72"
+        width="937"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-dbfd3ef0afaf4793886c83d032099418"
+      name="Cliente e Mercado"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="216"
+        width="937"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-bd57e79bc7e248b1bcd41a8dac598d44"
+      name="Processos Internos"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="360"
+        width="937"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-ab86f3771699423eb5db02576dc87621"
+      name="Aprendizado e Crescimento"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="504"
+        width="937"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-c462806a2329440b8d66c0ecfddf63d2">
+    <bounds
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-eaeb3e3ad6e447df81dfb1f35a2d29bf.xml#id-eaeb3e3ad6e447df81dfb1f35a2d29bf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

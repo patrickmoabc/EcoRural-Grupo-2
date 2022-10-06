@@ -1,0 +1,14 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Turismo EcoRural - Inicial"
+    id="id-312e4521e6944ae29fa321c79477f552"
+    version="4.9.0">
+  <profiles
+      name="Qualificação"
+      id="id-b855bc2ef72e41f2ae466bdb6b2d727c"
+      conceptType="BusinessObject"/>
+  <profiles
+      name="Atribuições"
+      id="id-30f8cd0d20b34610a159aa4793a1dfc1"
+      conceptType="BusinessObject"/>
+</archimate:ArchimateModel>

@@ -1,0 +1,66 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3. Produtos e Serviços ao Mercado - Alvo"
+    id="id-de562e2620334e1b878a4bd7d9138450"
+    viewpoint="product">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-0592a1b6fa714778bbe45a11e2bd9975">
+    <bounds
+        x="36"
+        y="44"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-7d5caa97eedd46b585806a3313547cf8.xml#id-7d5caa97eedd46b585806a3313547cf8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-678d06802b7943cfaccfa88e92e9a434"
+      textAlignment="1"
+      content="Legenda:&#xD;&#xA;">
+    <bounds
+        x="11"
+        y="115"
+        width="169"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-70e2401c4d3c4753a917aad5caa70fba"
+      textAlignment="1"
+      fillColor="#0080ff"
+      content="Elemento novo">
+    <bounds
+        x="23"
+        y="146"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1162468db965422d81e135d9a82bd504"
+      textAlignment="1"
+      fillColor="#ff8040"
+      content="Elemento a modificar">
+    <bounds
+        x="23"
+        y="182"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fa7073a3edbd42d9ae43e8b02b270824"
+      textAlignment="1"
+      fillColor="#ff0000"
+      content="Elemento a eliminar&#xD;&#xA;">
+    <bounds
+        x="23"
+        y="218"
+        width="133"
+        height="25"/>
+  </children>
+</archimate:ArchimateDiagramModel>

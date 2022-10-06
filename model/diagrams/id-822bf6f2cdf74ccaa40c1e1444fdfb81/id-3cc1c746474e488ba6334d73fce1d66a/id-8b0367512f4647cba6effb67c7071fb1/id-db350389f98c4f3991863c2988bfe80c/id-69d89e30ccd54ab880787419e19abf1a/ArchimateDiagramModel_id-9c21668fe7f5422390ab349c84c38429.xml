@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3. Produtos e Serviços ao Mercado"
+    id="id-9c21668fe7f5422390ab349c84c38429"
+    viewpoint="product">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-e22829e01a2f449bb853105bd67985d0">
+    <bounds
+        x="24"
+        y="44"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-7d5caa97eedd46b585806a3313547cf8.xml#id-7d5caa97eedd46b585806a3313547cf8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

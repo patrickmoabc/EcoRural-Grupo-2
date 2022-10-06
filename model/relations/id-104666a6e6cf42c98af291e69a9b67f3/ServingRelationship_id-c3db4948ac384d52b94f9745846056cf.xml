@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serviço"
+    id="id-c3db4948ac384d52b94f9745846056cf">
+  <source
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_id-852d12bbdf484103842a2d13794031f5.xml#id-852d12bbdf484103842a2d13794031f5"/>
+  <target
+      xsi:type="archimate:Facility"
+      href="Facility_id-8711b73d52574e50a9e5f235c6bb37b3.xml#id-8711b73d52574e50a9e5f235c6bb37b3"/>
+</archimate:ServingRelationship>

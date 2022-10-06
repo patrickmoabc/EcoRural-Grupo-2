@@ -1,0 +1,45 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability Map - Alvo"
+    id="id-f09b49b15a564380ad219ed899a2c219">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d9c7c61bcb0944d59d5da7cd261e6e3e"
+      textAlignment="1">
+    <bounds
+        x="74"
+        y="36"
+        width="959"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-b19132837abe4aa995fda129ac5a145a.xml#id-b19132837abe4aa995fda129ac5a145a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e0c1bbce23d1419f991d2c126f00d960"
+      textAlignment="1">
+    <bounds
+        x="74"
+        y="204"
+        width="959"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-805f8d714f4946c68959e326a9100fa7.xml#id-805f8d714f4946c68959e326a9100fa7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e95a57f9c1bb40eab843fcbf6d624e77"
+      textAlignment="1">
+    <bounds
+        x="74"
+        y="372"
+        width="959"
+        height="253"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-1714d9fc302242bcb49227e3182a6e21.xml#id-1714d9fc302242bcb49227e3182a6e21"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,62 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modelo de Referência Técnica (TRM)"
+    id="id-73b7f3407d64454caac83e4d8f313618">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-cb95a56c81894a3c985bda1ea9abdb9c"
+      name="Linguagens"
+      textAlignment="1">
+    <bounds
+        x="156"
+        y="24"
+        width="1021"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-5b3fabd729b64afa82aee400d4ac3859"
+      name="SGBD"
+      textAlignment="1">
+    <bounds
+        x="156"
+        y="168"
+        width="1021"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-4af3c84b7d1f4711a4c8c336a4f80cff"
+      name="Sistemas Operacionais"
+      textAlignment="1">
+    <bounds
+        x="156"
+        y="312"
+        width="1021"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6441d3fe323d46c7a2be2c15c1d08a6c"
+      name="Hardware (Servidores)"
+      textAlignment="1">
+    <bounds
+        x="156"
+        y="456"
+        width="1021"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-80d5c0bc9f9d4d0eafb689b2e9fdfeb5">
+    <bounds
+        x="24"
+        y="24"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-eaeb3e3ad6e447df81dfb1f35a2d29bf.xml#id-eaeb3e3ad6e447df81dfb1f35a2d29bf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

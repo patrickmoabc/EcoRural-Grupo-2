@@ -1,0 +1,76 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapa da Rede - Alvo"
+    id="id-7cca8c99781f49bdb55e1b4211279a8c">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2b12474fb9984a18bec192a5b4245e40"
+      textAlignment="1"
+      content="Precisa-se mais esclarecimentos ">
+    <bounds
+        x="1552"
+        y="641"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bd1aa348a3fa4a3b93451bc94a5a379e"
+      textAlignment="1"
+      content="Legenda:&#xD;&#xA;">
+    <bounds
+        x="176"
+        y="-36"
+        width="169"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-362ea4d983974434ac507c86be0dd60d"
+      textAlignment="1"
+      fillColor="#0080ff"
+      content="Elemento novo">
+    <bounds
+        x="188"
+        y="-5"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-95578550e8a841c39d371cb441de2c8f"
+      textAlignment="1"
+      fillColor="#ff8040"
+      content="Elemento a modificar">
+    <bounds
+        x="188"
+        y="31"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-479cb6d81f0c43329302142dbc353987"
+      textAlignment="1"
+      fillColor="#ff0000"
+      content="Elemento a eliminar&#xD;&#xA;">
+    <bounds
+        x="188"
+        y="67"
+        width="133"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-5269be9de4624431a1f353a83fa55d90">
+    <bounds
+        x="24"
+        y="-36"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-47cfe3a778d1455198b358e39d6e5364.xml#id-47cfe3a778d1455198b358e39d6e5364"/>
+  </children>
+</archimate:ArchimateDiagramModel>

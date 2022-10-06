@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4. Geografia"
+    id="id-df933d2247e746b2b7d9d68fe780c5d8">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-016eec0b358b4b8689956dcecfc1c771">
+    <bounds
+        x="15"
+        y="13"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-d5aebfdd6b8f49d881afd099ddd891cb.xml#id-d5aebfdd6b8f49d881afd099ddd891cb"/>
+  </children>
+</archimate:ArchimateDiagramModel>

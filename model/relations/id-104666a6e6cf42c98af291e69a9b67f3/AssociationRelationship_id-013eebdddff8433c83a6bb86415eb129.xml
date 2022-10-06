@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Associação"
+    id="id-013eebdddff8433c83a6bb86415eb129"
+    documentation="Meta atribuída a um ou mais Stakeholders&#xD;&#xA;">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-2b500c899383404b90b274b4a8b04cca.xml#id-2b500c899383404b90b274b4a8b04cca"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-74caace50f504e44af5beecdd08a7f43.xml#id-74caace50f504e44af5beecdd08a7f43"/>
+</archimate:AssociationRelationship>

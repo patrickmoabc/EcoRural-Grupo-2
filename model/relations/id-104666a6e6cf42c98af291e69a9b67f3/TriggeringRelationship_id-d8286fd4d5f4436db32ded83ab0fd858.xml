@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disparo"
+    id="id-d8286fd4d5f4436db32ded83ab0fd858">
+  <source
+      xsi:type="archimate:ImplementationEvent"
+      href="ImplementationEvent_id-fd5fada6754a4b9f84dc49b062297d43.xml#id-fd5fada6754a4b9f84dc49b062297d43"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-df3fdfc9cb3b4bc8873545ce002d2b4e.xml#id-df3fdfc9cb3b4bc8873545ce002d2b4e"/>
+</archimate:TriggeringRelationship>

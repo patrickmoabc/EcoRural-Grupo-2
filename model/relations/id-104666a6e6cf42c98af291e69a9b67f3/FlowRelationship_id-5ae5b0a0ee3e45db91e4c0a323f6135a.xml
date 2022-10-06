@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fluxo"
+    id="id-5ae5b0a0ee3e45db91e4c0a323f6135a">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e07a2209b1a54bd893cf77935b5dbb47.xml#id-e07a2209b1a54bd893cf77935b5dbb47"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-db43ebdcc9b642e1acb42eb8cc775e00.xml#id-db43ebdcc9b642e1acb42eb8cc775e00"/>
+</archimate:FlowRelationship>
