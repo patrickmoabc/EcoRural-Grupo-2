@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pedaço do Céu - Produtos e Serviços"
+    id="id-e1096e9d180349eca0d37f13a68eb829">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7b7733e81f5f4b5f8fe167dd04f7e673">
+    <bounds
+        x="425"
+        y="108"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_id-28a61a440aa541138821f22996da4489.xml#id-28a61a440aa541138821f22996da4489"/>
+  </children>
+</archimate:ArchimateDiagramModel>
