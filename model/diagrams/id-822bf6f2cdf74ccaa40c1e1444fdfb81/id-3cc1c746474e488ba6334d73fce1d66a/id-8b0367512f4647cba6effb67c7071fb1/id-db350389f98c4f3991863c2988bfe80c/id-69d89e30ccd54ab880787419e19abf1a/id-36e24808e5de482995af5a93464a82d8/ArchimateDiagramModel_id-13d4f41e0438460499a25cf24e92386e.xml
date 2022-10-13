@@ -15,24 +15,6 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-6cada7b0a9df4232b91d465f03d944b8.xml#id-6cada7b0a9df4232b91d465f03d944b8"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-8d6fbad667b34feeb340b5384dfebcac"
-        source="id-488a2e98868d4de0ae010f8ba34dcc79"
-        target="id-331b930689ac4fbcb75f88ab336a2d87">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-0c3ea91b10bf4c03a6d56b2c40032739.xml#id-0c3ea91b10bf4c03a6d56b2c40032739"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d92f7e068034471fbcd200813df8024d"
-        source="id-488a2e98868d4de0ae010f8ba34dcc79"
-        target="id-7d5740593c0a4366a2f1df6753c29f15">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-f175e1add0734dc2b3f6d5d827ed1029.xml#id-f175e1add0734dc2b3f6d5d827ed1029"/>
-    </sourceConnections>
     <bounds
         x="144"
         y="48"
@@ -40,8 +22,7 @@
         height="385"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-331b930689ac4fbcb75f88ab336a2d87"
-        targetConnections="id-8d6fbad667b34feeb340b5384dfebcac">
+        id="id-331b930689ac4fbcb75f88ab336a2d87">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-d5c43caad63049d3bf0b43993a77686c"
@@ -176,8 +157,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-7d5740593c0a4366a2f1df6753c29f15"
-        targetConnections="id-d92f7e068034471fbcd200813df8024d">
+        id="id-7d5740593c0a4366a2f1df6753c29f15">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5a3d9f7211a84a92971662d210dc54d9"
