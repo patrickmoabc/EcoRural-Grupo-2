@@ -9,22 +9,10 @@
       name="Localização Virtual"
       textAlignment="1">
     <bounds
-        x="971"
-        y="60"
+        x="888"
+        y="48"
         width="169"
         height="109"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5df9dad5f3b644689179706cfe0ae0ba">
-    <bounds
-        x="372"
-        y="60"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_id-41d483d6887f4a44901dafe5744b4ed9.xml#id-41d483d6887f4a44901dafe5744b4ed9"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
