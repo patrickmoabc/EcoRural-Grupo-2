@@ -131,6 +131,17 @@
           y="36"
           width="120"
           height="55"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-b186aff90b5644bc90290f86d5a113c0">
+        <bounds
+            y="24"
+            width="25"
+            height="25"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-281550ee3b2a4e83974b61aad68e736c.xml#id-281550ee3b2a4e83974b61aad68e736c"/>
+      </children>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-7c583a85535f4442a20588e153a05c7a.xml#id-7c583a85535f4442a20588e153a05c7a"/>

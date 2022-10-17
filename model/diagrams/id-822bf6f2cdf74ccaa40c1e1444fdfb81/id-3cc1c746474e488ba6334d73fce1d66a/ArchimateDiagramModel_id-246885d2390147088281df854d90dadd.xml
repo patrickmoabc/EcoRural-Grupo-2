@@ -25,27 +25,27 @@
           height="241"/>
       <children
           xsi:type="archimate:DiagramModelReference"
-          id="id-bb45971be2064e4c9f84d1120180d67b">
+          id="id-16b492e94c4b4b44aa41c89627bfd2e5">
         <bounds
             x="24"
-            y="144"
+            y="108"
             width="120"
             height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-26bb4a4aeefa44608089b7fd8a6430d3.xml#id-26bb4a4aeefa44608089b7fd8a6430d3"/>
+            href="ArchimateDiagramModel_id-4024b038bc8248d89f18e94d8acd5ef2.xml#id-4024b038bc8248d89f18e94d8acd5ef2"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelReference"
-          id="id-89e0e1cf9bb7421aa180a27c9f94766e">
+          id="id-e70c2d268c7441299bb5d73dcb1a4411">
         <bounds
             x="24"
-            y="36"
+            y="48"
             width="120"
-            height="73"/>
+            height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-8c305f6be384469999c58c2d3aaf891a.xml#id-8c305f6be384469999c58c2d3aaf891a"/>
+            href="ArchimateDiagramModel_id-7421e3f0da834752b1ad6fb0ad3335c4.xml#id-7421e3f0da834752b1ad6fb0ad3335c4"/>
       </children>
     </children>
     <children
@@ -63,7 +63,7 @@
           id="id-f1c78e14d5454ecdb0acc5d7f4bcdefb">
         <bounds
             x="24"
-            y="144"
+            y="120"
             width="120"
             height="55"/>
         <referencedModel

@@ -4,8 +4,8 @@
     name="Responsável por"
     id="id-ba074faf0968472f9d1c62bb3c81efc6">
   <source
-      xsi:type="archimate:Stakeholder"
-      href="Stakeholder_id-b5d3446973234116abff3efdc732dab8.xml#id-b5d3446973234116abff3efdc732dab8"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4163ff248ca84249a417891865e28815.xml#id-4163ff248ca84249a417891865e28815"/>
   <target
       xsi:type="archimate:Goal"
       href="Goal_id-7c583a85535f4442a20588e153a05c7a.xml#id-7c583a85535f4442a20588e153a05c7a"/>
