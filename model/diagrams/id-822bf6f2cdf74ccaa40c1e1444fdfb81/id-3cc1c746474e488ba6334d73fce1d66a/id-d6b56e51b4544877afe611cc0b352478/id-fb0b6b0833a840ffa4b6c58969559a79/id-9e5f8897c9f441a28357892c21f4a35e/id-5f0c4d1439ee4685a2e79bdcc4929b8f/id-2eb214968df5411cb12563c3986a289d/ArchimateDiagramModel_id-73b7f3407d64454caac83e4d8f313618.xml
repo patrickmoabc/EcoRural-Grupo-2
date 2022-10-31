@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modelo de Referência Técnica (TRM)"
+    name="TRM - Alvo"
     id="id-73b7f3407d64454caac83e4d8f313618">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -13,6 +13,18 @@
         y="24"
         width="1021"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c62439af4a70491c8e114313295a96b6">
+      <bounds
+          x="24"
+          y="36"
+          width="121"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-e648fafb45b64cc98c6f9a4cdefe273b.xml#id-e648fafb45b64cc98c6f9a4cdefe273b"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -24,6 +36,18 @@
         y="168"
         width="1021"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d22ec51f6041486f8ddf73b5834f8d06">
+      <bounds
+          x="24"
+          y="48"
+          width="121"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-7bd79642892d4fe8bff32347413eb524.xml#id-7bd79642892d4fe8bff32347413eb524"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
