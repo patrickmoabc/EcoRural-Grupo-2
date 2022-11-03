@@ -303,7 +303,19 @@
           x="60"
           y="528"
           width="120"
-          height="55"/>
+          height="61"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-cf885a107c5d42d6871b73ff8d71abff">
+        <bounds
+            x="48"
+            y="36"
+            width="24"
+            height="25"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-8a0ab99dc8d84c7fa30c6813b65cf2bc.xml#id-8a0ab99dc8d84c7fa30c6813b65cf2bc"/>
+      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-95d7183116b5466b968f73aa9fcb03ed.xml#id-95d7183116b5466b968f73aa9fcb03ed"/>

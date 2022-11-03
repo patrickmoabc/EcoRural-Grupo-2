@@ -70,6 +70,30 @@
         y="456"
         width="1021"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6ba84cf38b7a4780a2995017a4344fe4">
+      <bounds
+          x="24"
+          y="39"
+          width="121"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-16c2eddf57384439a1356202c329304a.xml#id-16c2eddf57384439a1356202c329304a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a8d1fa44d3464d32b94e7363679efc19">
+      <bounds
+          x="180"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:CommunicationNetwork"
+          href="CommunicationNetwork_id-9de9ed4d8687428da4706641982d0003.xml#id-9de9ed4d8687428da4706641982d0003"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
